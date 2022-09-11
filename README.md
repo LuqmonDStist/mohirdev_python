@@ -1,1 +1,0 @@
-# mohirdev_python
